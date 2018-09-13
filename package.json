@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-no-named-imports",
+  "version": "0.0.1",
+  "description": "Disallow named imports from packages. Ideal for use with .mjs files",
+  "main": "lib/index.js",
+  "repository": "https://github.com/gabemeola/eslint-plugin-no-named-imports",
+  "author": "Gabe M <gabemeola@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "lib/"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "es6",
+    "modules",
+    "import",
+    "commonjs",
+    "cjs"
+  ],
+  "bugs": {
+    "url": "https://github.com/gabemeola/eslint-plugin-no-named-imports/issues"
+  },
+  "homepage": "https://github.com/gabemeola/eslint-plugin-no-named-imports"
+}
