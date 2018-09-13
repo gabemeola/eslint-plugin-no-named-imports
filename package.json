@@ -25,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/gabemeola/eslint-plugin-no-named-imports/issues"
   },
-  "homepage": "https://github.com/gabemeola/eslint-plugin-no-named-imports"
+  "homepage": "https://github.com/gabemeola/eslint-plugin-no-named-imports",
+  "devDependencies": {
+    "eslint": "^5.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0"
+  }
 }
